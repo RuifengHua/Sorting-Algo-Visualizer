@@ -1,0 +1,155 @@
+.container {
+  margin-top: 50px;
+  flex-direction: row;
+}
+
+.container2 {
+  display: flex;
+  margin-top: 10px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.containerOuter {
+  flex-direction: column;
+}
+
+.containerUpper {
+  display: flex;
+  flex-direction: column;
+}
+
+.containerUpper1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.arraybar {
+  width: 3px;
+  background-color: #a891da;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.title {
+  margin-left: 40px;
+  font-family: "Courier New", monospace;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.para {
+  margin-left: 40px;
+  font-family: " Comic Sans MS", Comic Sans, cursive;
+  font-size: 20px;
+}
+.btn {
+  display: inline-block;
+}
+
+#bb1 {
+  border-color: #c959b9;
+  color: #c959b9;
+}
+#bb2 {
+  border-color: #c959b9;
+  color: #c959b9;
+}
+#bb3 {
+  border-color: #c959b9;
+  color: #c959b9;
+}
+#bb4 {
+  border-color: #888888;
+  color: #888888;
+}
+#bb5 {
+  border-color: #888888;
+  color: #888888;
+}
+#bb6 {
+  border-color: #888888;
+  color: #888888;
+}
+#bb7 {
+  border-color: #888888;
+  color: #888888;
+}
+#bb8 {
+  border-color: #888888;
+  color: #888888;
+}
+
+.arraybar1 {
+  width: 10px;
+  background-color: #a891da;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.arraybar2 {
+  width: 40px;
+  background-color: #a891da;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.green {
+  color: #039003;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.red {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.black {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+span.a {
+  display: inline; /* the default for span */
+  width: 150px;
+  height: 20px;
+
+  background-color: #039003;
+}
+
+span.b {
+  display: inline; /* the default for span */
+  width: 150px;
+  height: 20px;
+
+  background-color: red;
+}
+
+span.c {
+  display: inline; /* the default for span */
+  width: 150px;
+  height: 20px;
+
+  background-color: black;
+}
+
+.greenC {
+  display: flex;
+  flex-direction: row;
+}
+
+.redC {
+  display: flex;
+  flex-direction: row;
+}
+
+.blackC {
+  display: flex;
+  flex-direction: row;
+}
+
+.cc {
+  display: flex;
+  justify-content: center;
+}
